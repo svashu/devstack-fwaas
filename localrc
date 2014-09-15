@@ -7,6 +7,9 @@ MYSQL_PASSWORD=<<password>
 RABBIT_PASSWORD=<<password>
 SERVICE_PASSWORD=<<password>
 SERVICE_TOKEN=<<password>
+
+####Tempest
+enable_service tempest
  
 ##Neutron
 enable_service neutron
